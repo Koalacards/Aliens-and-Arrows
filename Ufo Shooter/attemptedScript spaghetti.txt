@@ -1,0 +1,165 @@
+if (transform.position.y <= -.85f) {
+			transform.rotation = Quaternion.Euler (0, 0, 31f);
+			Bow.transform.rotation = Quaternion.Euler(0,0,1f);
+			Bow.transform.position = new Vector2(-6.44f, -0.43f);
+		}else if(transform.position.y <= -.8f)
+		{
+			transform.rotation = Quaternion.Euler (0, 0, 29f);
+			Bow.transform.rotation = Quaternion.Euler(0,0,.5f);
+			Bow.transform.position = new Vector2(-6.44f, -0.43f);
+		}else if(transform.position.y <= -.75f)
+		{
+			transform.rotation = Quaternion.Euler (0, 0, 27f);
+			Bow.transform.rotation = Quaternion.Euler(0,0,0f);
+			Bow.transform.position = new Vector2(-6.44f, -0.43f);
+		}else if(transform.position.y <= -.7f)
+		{
+			transform.rotation = Quaternion.Euler (0, 0, 25f);
+			Bow.transform.rotation = Quaternion.Euler(0,0,-.5f);
+			Bow.transform.position = new Vector2(-6.44f, -0.43f);
+		}else if(transform.position.y <= -.65f)
+		{
+			transform.rotation = Quaternion.Euler (0, 0, 23f);
+			Bow.transform.rotation = Quaternion.Euler(0,0,-2f);
+			Bow.transform.position = new Vector2(-6.44f, -0.43f);
+		}else if(transform.position.y <= -.6f)
+		{
+			transform.rotation = Quaternion.Euler (0, 0, 21f);
+			Bow.transform.rotation = Quaternion.Euler(0,0,-3f);
+			Bow.transform.position = new Vector2(-6.44f, -0.43f);
+		}else if(transform.position.y <= -.55f)
+		{
+			transform.rotation = Quaternion.Euler (0, 0, 19f);
+			Bow.transform.rotation = Quaternion.Euler(0,0,-4f);
+			Bow.transform.position = new Vector2(-6.44f, -0.43f);
+		}else if(transform.position.y <= -.5f)
+		{
+			transform.rotation = Quaternion.Euler (0, 0, 17f);
+			Bow.transform.rotation = Quaternion.Euler(0,0,-4.5f);
+			Bow.transform.position = new Vector2(-6.44f, -0.43f);
+		}else if(transform.position.y <= -.45f)
+		{
+			transform.rotation = Quaternion.Euler (0, 0, 15f);
+			Bow.transform.rotation = Quaternion.Euler(0,0,-5f);
+			Bow.transform.position = new Vector2(-6.44f, -0.43f);
+		}else if(transform.position.y <= -.4f)
+		{
+			transform.rotation = Quaternion.Euler (0, 0, 13f);
+			Bow.transform.rotation = Quaternion.Euler(0,0,-6f);
+			Bow.transform.position = new Vector2(-6.44f, -0.43f);
+		}else if(transform.position.y <= -.35f)
+		{
+			transform.rotation = Quaternion.Euler (0, 0, 11f);
+			Bow.transform.rotation = Quaternion.Euler(0,0,-7f);
+			Bow.transform.position = new Vector2(-6.44f, -0.43f);
+		}else if(transform.position.y <= -.3f)
+		{
+			transform.rotation = Quaternion.Euler (0, 0, 10f);
+			Bow.transform.rotation = Quaternion.Euler(0,0,-9f);
+			Bow.transform.position = new Vector2(-6.44f, -0.43f);
+		}else if(transform.position.y <= -.25f)
+		{
+			transform.rotation = Quaternion.Euler (0, 0, 9f);
+			Bow.transform.rotation = Quaternion.Euler(0,0,-11f);
+			Bow.transform.position = new Vector2(-6.44f, -0.36f);
+		}else if(transform.position.y <= -.2f)
+		{
+			transform.rotation = Quaternion.Euler (0, 0, 8f);
+			Bow.transform.rotation = Quaternion.Euler(0,0,-13f);
+			Bow.transform.position = new Vector2(-6.44f, -0.3f);
+		}else if(transform.position.y <= -.15f)
+		{
+			transform.rotation = Quaternion.Euler (0, 0, 7f);
+			Bow.transform.rotation = Quaternion.Euler(0,0,-14f);
+			Bow.transform.position = new Vector2(-6.44f, -0.26f);
+		}else if(transform.position.y <= -.1f)
+		{
+			transform.rotation = Quaternion.Euler (0, 0, 6f);
+			Bow.transform.rotation = Quaternion.Euler(0,0,-15f);
+			Bow.transform.position = new Vector2(-6.44f, -0.21f);
+		}else if(transform.position.y <= -.05f)
+		{
+			transform.rotation = Quaternion.Euler (0, 0, 5f);
+			Bow.transform.rotation = Quaternion.Euler(0,0,-17f);
+			Bow.transform.position = new Vector2(-6.44f, -0.16f);
+		}else if(transform.position.y <= 0f)
+		{
+			transform.rotation = Quaternion.Euler (0, 0, 4f);
+			Bow.transform.rotation = Quaternion.Euler(0,0,-20f);
+			Bow.transform.position = new Vector2(-6.44f, -0.16f);
+		}else if(transform.position.y <= .05f)
+		{
+			transform.rotation = Quaternion.Euler (0, 0, 2f);
+			Bow.transform.rotation = Quaternion.Euler(0,0,-22f);
+			Bow.transform.position = new Vector2(-6.44f, -0.16f);
+		}else if(transform.position.y <= .1f)
+		{
+			transform.rotation = Quaternion.Euler (0, 0, 0f);
+			Bow.transform.rotation = Quaternion.Euler(0,0,-23f);
+			Bow.transform.position = new Vector2(-6.44f, -0.11f);
+		}else if(transform.position.y <= .15f)
+		{
+			transform.rotation = Quaternion.Euler (0, 0, -1f);
+			Bow.transform.rotation = Quaternion.Euler(0,0,-25f);
+			Bow.transform.position = new Vector2(-6.44f, -0.06f);
+		}else if(transform.position.y <= .2f)
+		{
+			transform.rotation = Quaternion.Euler (0, 0, -2f);
+			Bow.transform.rotation = Quaternion.Euler(0,0,-27f);
+			Bow.transform.position = new Vector2(-6.44f, -0.05f);
+		}else if(transform.position.y <= .25f)
+		{
+			transform.rotation = Quaternion.Euler (0, 0, -3f);
+			Bow.transform.rotation = Quaternion.Euler(0,0,-29f);
+			Bow.transform.position = new Vector2(-6.44f, -0.04f);
+		}else if(transform.position.y <= .3f)
+		{
+			transform.rotation = Quaternion.Euler (0, 0, -5f);
+			Bow.transform.rotation = Quaternion.Euler(0,0,-30f);
+			Bow.transform.position = new Vector2(-6.44f, -0.02f);
+		}else if(transform.position.y <= .35f)
+		{
+			transform.rotation = Quaternion.Euler (0, 0, -7f);
+			Bow.transform.rotation = Quaternion.Euler(0,0,-32f);
+			Bow.transform.position = new Vector2(-6.44f, 0f);
+		}else if(transform.position.y <= .4f)
+		{
+			transform.rotation = Quaternion.Euler (0, 0, -9f);
+			Bow.transform.rotation = Quaternion.Euler(0,0,-34f);
+			Bow.transform.position = new Vector2(-6.44f, .02f);
+		}else if(transform.position.y <= .45f)
+		{
+			transform.rotation = Quaternion.Euler (0, 0, -11f);
+			Bow.transform.rotation = Quaternion.Euler(0,0,-35f);
+			Bow.transform.position = new Vector2(-6.44f, .03f);
+		}else if(transform.position.y <= .5f)
+		{
+			transform.rotation = Quaternion.Euler (0, 0, -13f);
+			Bow.transform.rotation = Quaternion.Euler(0,0,-37f);
+			Bow.transform.position = new Vector2(-6.44f, .05f);
+		}else if(transform.position.y <= .55f)
+		{
+			transform.rotation = Quaternion.Euler (0, 0, -15f);
+			Bow.transform.rotation = Quaternion.Euler(0,0,-37f);
+			Bow.transform.position = new Vector2(-6.44f, .06f);
+		}else if(transform.position.y <= .6f)
+		{
+			transform.rotation = Quaternion.Euler (0, 0, -17f);
+			Bow.transform.rotation = Quaternion.Euler(0,0,-40f);
+			Bow.transform.position = new Vector2(-6.44f, .06f);
+		}else if(transform.position.y <= .65f)
+		{
+			transform.rotation = Quaternion.Euler (0, 0, -19f);
+			Bow.transform.rotation = Quaternion.Euler(0,0,-42f);
+			Bow.transform.position = new Vector2(-6.44f, .06f);
+		}else if(transform.position.y <= .7f)
+		{
+			transform.rotation = Quaternion.Euler (0, 0, -20f);
+			Bow.transform.rotation = Quaternion.Euler(0,0,-44f);
+			Bow.transform.position = new Vector2(-6.44f, .09f);
+		}else if(transform.position.y <= .75f)
+		{
+			transform.rotation = Quaternion.Euler (0, 0, -21f);
+			Bow.transform.rotation = Quaternion.Euler(0,0,-45f);
+			Bow.transform.position = new Vector2(-6.44f, .12f);
+		}
