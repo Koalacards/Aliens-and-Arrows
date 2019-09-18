@@ -1,2 +1,3 @@
 # Aliens-and-Arrows
-A 2D arcade game that was mostly developed from March 2017- January 2019. Two full game modes and 30 full levels, lacks proper artwork and music.
+A 2D arcade game that was mostly developed from March 2017- January 2019. Two full game modes, a story mode with 30 full levels, and an endless mode. Needs more proper artwork and music, which can be implemented in the future.
+
